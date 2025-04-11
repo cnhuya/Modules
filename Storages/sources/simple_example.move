@@ -9,7 +9,7 @@ module deployer::simple{
     use std::debug::print;
     
 
-    const OWNER: address = @0xc698c251041b826f1d3d4ea664a70674758e78918938d1b3b237418ff17b4020;
+    const OWNER: address = @deployer;
     
     // ERROR CODES
     const ERROR_NOT_OWNER: u64 = 1;
