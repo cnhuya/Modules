@@ -1,4 +1,4 @@
-module testing::simplev2{
+module deployer::simple{
   
     use std::signer;
     use std::vector;
