@@ -1,4 +1,4 @@
-module deployer::Writertest1{
+module deployer::Writer{
   
     use std::signer;
     use std::vector;
@@ -12,7 +12,7 @@ module deployer::Writertest1{
     use 0x8480994b8cdeb0b3c6136dcc65edaafd6cd4ad18eb0d515676f3efd4dbd7d5e5::SolanaOracle;
 
 
-    const OWNER: address = @0x8480994b8cdeb0b3c6136dcc65edaafd6cd4ad18eb0d515676f3efd4dbd7d5e5;
+    const OWNER: address = @deployer;
 
 
     // ERROR CODES
