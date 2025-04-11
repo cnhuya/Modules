@@ -1,4 +1,4 @@
-module testing::deluxev1{
+module deployer::deluxe{
   
     use std::signer;
     use std::vector;
