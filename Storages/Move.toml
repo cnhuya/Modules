@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-#Change this variable to your wallet
+#Change this variable to your address
 deployer = "0xc698c251041b826f1d3d4ea664a70674758e78918938d1b3b237418ff17b4020"
 [dev-addresses]
 
