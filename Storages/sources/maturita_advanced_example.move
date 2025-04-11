@@ -1,4 +1,4 @@
-module deployer::advancedv{
+module deployer::advanced{
   
     use std::signer;
     use std::vector;
