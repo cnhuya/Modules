@@ -5,7 +5,7 @@ authors = []
 
 [addresses]
 #Change this variable to your wallet
-deployer = "0x5658f4d45001f71897f4a9d46a3cf05a651a2821568032553ca6063a2ea9601e"
+deployer = "0x9763cb18773902980a76c48818e48d7c2cd3470d120367d4333ebcfe340169ec"
 [dev-addresses]
 
 [dependencies.SupraFramework]
